@@ -1,0 +1,16 @@
+Columns and Sample Data:,,,
+,,,
+Column Name,Data Type,Description,Example Values
+Customer_ID,String,Unique identifier for each customer,"C001, C002, C003"
+Age,Integer,Age of the customer,"25, 40, 32"
+Gender,String,Gender of the customer,"Male, Female, Non-Binary"
+Income,Float,Annual income of the customer in USD,"55000.0, 72000.0, 45000.0"
+Location,String,Customer's geographical location,"New York, California, Texas"
+Campaign_ID,String,Identifier for marketing campaign,"M001, M002, M003"
+Product_Purchased,String,Product purchased during the campaign,"Product A, Product B, Product C"
+Purchase_Amount,Float,Amount spent by the customer in USD,"150.0, 300.0, 75.0"
+Engagement_Score,Float,Score based on interaction with campaign (scale 1-10),"7.5, 8.3, 6.0"
+Campaign_Channel,String,Channel used for the campaign,"Email, Social Media, SMS"
+Campaign_Response_Time,Float,Time taken to respond to the campaign in hours,"24.0, 12.0, 48.0"
+Discount_Used,Boolean,Indicates if the customer used the discount provided in the campaign,"True, False"
+Satisfaction_Score,Float,Customer satisfaction score post-campaign (scale 1-10),"9.0, 7.5, 8.0"
